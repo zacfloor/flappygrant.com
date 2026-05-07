@@ -1,10 +1,13 @@
 body{
-    background-color: #a1d0d3;
+    background: #c3d5de;
+    background: linear-gradient(180deg, rgba(195, 213, 222, 1) 0%, rgba(86, 119, 133, 1) 100%);
     color: #000000;
     font-family: 'Arial', sans-serif;
     text-align: center;
 }
 h1{
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 15%, rgba(0, 107, 143, 1) 69%, rgba(255, 255, 255, 1) 100%);
     font-size: 3em;
     margin-top: 50px;
 }
